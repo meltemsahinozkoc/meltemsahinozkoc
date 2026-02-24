@@ -1,7 +1,8 @@
 ## 👋 Meltem Sahin Ozkoc
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)]([https://www.linkedin.com/in/meltemsahinozkoc/](https://www.linkedin.com/in/meltemsahinozkoc/))
-[![Wwbsite Badge](https://www.meltemsahin.rocks/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/meltemsahinozkoc/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.meltemsahin.rocks/)
+
 
 I am second-year Master of Science (M.Sc.) candidate at the Carnegie Mellon University as a Fulbright scholar. I've completed a year at TU Munich's Information Technologies for the Built Environment program and hold a Bachelor of Architecture (B.Arch.) degree from Middle East Technical University Department of Architecture as the salutatorian.
 
