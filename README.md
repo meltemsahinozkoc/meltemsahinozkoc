@@ -5,4 +5,3 @@
 
 
 I am a second-year Master of Science (M.Sc.) candidate at Carnegie Mellon University and a Fulbright Scholar. I previously completed one year in TU Munich’s Information Technologies for the Built Environment program, and I am currently working on multimodal understanding in the built environment.
----
