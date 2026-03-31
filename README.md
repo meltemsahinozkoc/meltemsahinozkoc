@@ -4,6 +4,5 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.meltemsahin.rocks/)
 
 
-I am second-year Master of Science (M.Sc.) candidate at the Carnegie Mellon University as a Fulbright scholar. I've completed a year at TU Munich's Information Technologies for the Built Environment program and hold a Bachelor of Architecture (B.Arch.) degree from Middle East Technical University Department of Architecture as the salutatorian.
-
+I am a second-year Master of Science (M.Sc.) candidate at Carnegie Mellon University and a Fulbright Scholar. I previously completed one year in TU Munich’s Information Technologies for the Built Environment program, and I am currently working on multimodal understanding in the built environment.
 ---
