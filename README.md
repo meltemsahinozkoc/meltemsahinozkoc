@@ -1,4 +1,6 @@
-## 👋 Meltem Sahin Ozkoc
+## 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Meltem+Sahin+Ozkoc)](https://git.io/typing-svg)
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/meltemsahinozkoc/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.meltemsahin.rocks/)
