@@ -6,4 +6,4 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.meltemsahin.rocks/)
 
 
-I am a second-year Master of Science (M.Sc.) candidate at Carnegie Mellon University and a Fulbright Scholar. Before joining CMU, I completed one year in TU Munich’s Information Technologies for the Built Environment program. My current work focuses on multimodal understanding of the existing building stock and partially observable, sparse data.
+I hold a Master of Science (M.Sc.) degree from Carnegie Mellon University, where I studied as a Fulbright Scholar. Before joining CMU, I completed one year in the Information Technologies for the Built Environment program at the Technical University of Munich. My current research focuses on multimodal understanding of existing building stock under partially observable and sparse data conditions.
